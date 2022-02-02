@@ -48,7 +48,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=nativelights-vip&client_id=6f717024a86e849d171852fb5219accd" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=nativelights-vip&client_id=018e1ae3cc8347d08dcda9d8784e40cc" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
